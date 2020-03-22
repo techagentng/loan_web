@@ -47,7 +47,10 @@
             </div><!--//container-->
         </div><!--//footer-content-->
     </footer><!--//footer-->
-    
+    <script src="./node_modules/sal.js/dist/sal.js"></script>
+    <script>
+      sal();
+    </script>
     <!-- Javascript -->          
     <script type="text/javascript" src="assets/plugins/jquery-1.12.3.min.js"></script>
     <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script> 

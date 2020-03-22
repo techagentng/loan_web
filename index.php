@@ -65,7 +65,12 @@
                         </div>                      
                     </div><!--//content-->
                     <figure class="figure col-md-offset-1 col-sm-offset-0 col-xs-offset-0 col-xs-12 col-md-7">
-                        <img class="img-responsive" src="dashboard3.jpg" alt="" />
+                        <img
+                                data-sal="slide-up"
+                                data-sal-duration="1200"
+                                data-sal-easing="ease-out-bounce"
+                                data-sal-delay="300"
+                                class="img-responsive" src="dashboard3.jpg" alt="" />
 
                     </figure>
                 </div><!--//item-->
